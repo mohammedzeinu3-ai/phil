@@ -1,0 +1,8 @@
+{
+  "name": "The Weekly Dialectic",
+  "description": "A weekly philosophical journal with long-form essays, nested reader debates, and interactive philosophical dilemmas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
